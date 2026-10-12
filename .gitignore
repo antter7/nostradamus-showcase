@@ -1,0 +1,7 @@
+.env
+data/
+config/
+*.db
+*.sqlite3
+*.joblib
+__pycache__/
